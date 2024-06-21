@@ -1,0 +1,7 @@
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc29\bin\Debug\Exerc29.exe.config
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc29\bin\Debug\Exerc29.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc29\bin\Debug\Exerc29.pdb
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc29\obj\Debug\Exerc29.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc29\obj\Debug\Exerc29.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc29\obj\Debug\Exerc29.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc29\obj\Debug\Exerc29.pdb

@@ -1,0 +1,7 @@
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\exerc27\bin\Debug\exerc27.exe.config
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\exerc27\bin\Debug\exerc27.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\exerc27\bin\Debug\exerc27.pdb
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\exerc27\obj\Debug\exerc27.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\exerc27\obj\Debug\exerc27.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\exerc27\obj\Debug\exerc27.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\exerc27\obj\Debug\exerc27.pdb

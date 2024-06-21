@@ -1,0 +1,7 @@
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc24\bin\Debug\Exerc24.exe.config
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc24\bin\Debug\Exerc24.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc24\bin\Debug\Exerc24.pdb
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc24\obj\Debug\Exerc24.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc24\obj\Debug\Exerc24.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc24\obj\Debug\Exerc24.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc24\obj\Debug\Exerc24.pdb

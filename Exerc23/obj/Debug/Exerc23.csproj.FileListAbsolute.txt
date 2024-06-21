@@ -1,0 +1,7 @@
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc23\bin\Debug\Exerc23.exe.config
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc23\bin\Debug\Exerc23.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc23\bin\Debug\Exerc23.pdb
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc23\obj\Debug\Exerc23.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc23\obj\Debug\Exerc23.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc23\obj\Debug\Exerc23.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc23\obj\Debug\Exerc23.pdb

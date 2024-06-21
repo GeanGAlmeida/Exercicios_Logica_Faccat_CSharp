@@ -1,0 +1,7 @@
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc33\bin\Debug\Exerc33.exe.config
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc33\bin\Debug\Exerc33.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc33\bin\Debug\Exerc33.pdb
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc33\obj\Debug\Exerc33.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc33\obj\Debug\Exerc33.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc33\obj\Debug\Exerc33.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc33\obj\Debug\Exerc33.pdb

@@ -1,0 +1,7 @@
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc26\bin\Debug\Exerc26.exe.config
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc26\bin\Debug\Exerc26.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc26\bin\Debug\Exerc26.pdb
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc26\obj\Debug\Exerc26.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc26\obj\Debug\Exerc26.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc26\obj\Debug\Exerc26.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc26\obj\Debug\Exerc26.pdb

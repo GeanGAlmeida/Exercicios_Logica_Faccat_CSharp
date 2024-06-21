@@ -1,0 +1,7 @@
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc12\bin\Debug\Exerc12.exe.config
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc12\bin\Debug\Exerc12.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc12\bin\Debug\Exerc12.pdb
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc12\obj\Debug\Exerc12.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc12\obj\Debug\Exerc12.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc12\obj\Debug\Exerc12.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc12\obj\Debug\Exerc12.pdb

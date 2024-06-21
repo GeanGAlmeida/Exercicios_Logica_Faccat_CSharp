@@ -1,0 +1,7 @@
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\ExercA\bin\Debug\ExercA.exe.config
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\ExercA\bin\Debug\ExercA.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\ExercA\bin\Debug\ExercA.pdb
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\ExercA\obj\Debug\ExercA.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\ExercA\obj\Debug\ExercA.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\ExercA\obj\Debug\ExercA.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\ExercA\obj\Debug\ExercA.pdb

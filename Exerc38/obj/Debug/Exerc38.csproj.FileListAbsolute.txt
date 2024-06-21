@@ -1,0 +1,7 @@
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc38\bin\Debug\Exerc38.exe.config
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc38\bin\Debug\Exerc38.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc38\bin\Debug\Exerc38.pdb
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc38\obj\Debug\Exerc38.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc38\obj\Debug\Exerc38.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc38\obj\Debug\Exerc38.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc38\obj\Debug\Exerc38.pdb

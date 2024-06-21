@@ -1,0 +1,7 @@
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc37\bin\Debug\Exerc37.exe.config
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc37\bin\Debug\Exerc37.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc37\bin\Debug\Exerc37.pdb
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc37\obj\Debug\Exerc37.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc37\obj\Debug\Exerc37.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc37\obj\Debug\Exerc37.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Faccat\Exerc37\obj\Debug\Exerc37.pdb
